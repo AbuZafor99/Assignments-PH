@@ -70,3 +70,16 @@ nav ul li a{
     font-size: 65px;
     font-weight: bold;
 }
+
+/*live preview style */ 
+
+.live-preview{
+    display: flex;
+    justify-content: space-between;
+    gap: 215px;
+    align-items: center;
+    padding: 63px 0px;
+}
+.live-preview img{
+    border-radius: 30px;
+}
